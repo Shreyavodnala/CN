@@ -1,0 +1,7 @@
+output:
+enter the characters :goodday
+enter a character that represents starting delimiter :d
+enter a character that represents starting delimiter :g
+enter a character that is to be stuffed: esc
+
+After stuffing : descgooescdescdayg
